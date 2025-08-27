@@ -12,7 +12,7 @@ export default function Navbar() {
         <Image src="/assets/logo.png" alt="Logo" width={154} height={20} />
         <nav>
           <ul className="flex space-x-8 text-sm font-medium">
-            <li><a href="/" className="hover:text-gray-300">Home</a></li>
+            <li><a href="#" className="hover:text-gray-300">Home</a></li>
             <li><a href="#" className="hover:text-gray-300">About</a></li>
             <li><a href="#" className="hover:text-gray-300">Contact</a></li>
             <li>
